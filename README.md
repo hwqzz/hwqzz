@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm hwqzz</h1>
-<h3 align="center">A passionate frontend developer from france</h3>
+<h3 align="center">(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://images-ext-2.discordapp.net/external/S7I5PWiVWfMYvPJaVGX__IleCQeVdKSMgbYzoiUMMJg/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1067003022422581278/a_289a73f39075346c07b8e73be08ba5c6.gif)")</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
